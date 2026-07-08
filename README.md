@@ -1,5 +1,7 @@
 # 💫 About Me:
-<br>i am a frontend engineer<br>i am working on react html css javascript and react ui libraries<br>also working on seo<br>also learning backend development<br>
+<br>I am a Web Developer with 1+ year of experience building responsive and scalable web applications using React.js, JavaScript, Tailwind CSS, and Material UI.
+<br>I contributed to the development and delivery of PlayNow, a production-grade sports booking platform, where I worked on booking systems, payment integrations, real-time workflows, and technical SEO optimization.
+<br>I am passionate about building high-performance digital products and continuously expanding my expertise in full-stack software development.<br>
 
 
 ## 🌐 Socials:
